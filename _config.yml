@@ -2,8 +2,7 @@
 name: The Code School
 description: The Code School | Coding bootcamp
 meta_description: "Jekyll theme for blogging."
-#logo: 'assets/images/logo.png'
-logo: 'assets/images/logo-footer.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: https://the-code-school.github.io/tcs-page/
