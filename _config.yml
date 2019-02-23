@@ -1,11 +1,11 @@
 # Site
 name: The Code School
 description: The Code School | Coding bootcamp
-meta_description: "Jekyll theme for blogging."
+meta_description: "The Code School is an Ottawa-based, in-person coding school that guides people from all backgrounds to change their lives through career-focused education. We shape passionate coders with immersive training to meet industry needs and improve diversity in the tech scene."
 logo: 'assets/images/logo-new.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: https://thecodeschool.org
+baseurl: 
 email: 'thecodeschool@outlook.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
