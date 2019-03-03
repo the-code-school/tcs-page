@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Full Stack Bootcamp"
-author: john
 categories: [ Full Stack, Web Development ]
 image: assets/images/6.jpg
 ---
