@@ -1,7 +1,6 @@
 ---
 layout: post-right-sidebar
 title:  "iOS Development Bootcamp"
-author: sal
 categories: [ iOS Development ]
 image: assets/images/3.jpg
 ---
