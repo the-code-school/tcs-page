@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Intro to Web Development"
-author: sal
 categories: [ Web Development, Web Design ]
 image: assets/images/5.jpg
 ---
