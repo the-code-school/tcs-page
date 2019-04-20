@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SpringBoot & React Web全栈开发实战课程"
+title:  "Web全栈开发实战课程"
 author: 
 categories: [ Bootcamp, Full Stack ]
 image: assets/images/4.jpg
