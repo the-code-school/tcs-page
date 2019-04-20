@@ -14,15 +14,14 @@ This course is designed to incorporate learning and practice time in four hour s
 
 **When:** Summer 
 
-**Meeting Times:** Saturday
+**Meeting Times:** Saturday/Sunday
 
 **Where:** Algonquin College, Ottawa
 
-**Here’s what you’ll learn:**
+**Here’s what  you’ll learn:**
 
- - Advanced Responsive Design Creating Web Forms Using JavaScript to
- - Create Interactive Applications JQuery Library Overview of scraping
- - Use of Frameworks for Templating and Data Presentation
+ - SpringBoot backend framework
+ - React Web Application Frontend design
 
  
 Over five weeks, you will gain coding skills and improve your Web portfolio. You’ll be introduced to new career paths that could include:
