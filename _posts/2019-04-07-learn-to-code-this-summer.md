@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Learn to Code this Summer!"
-categories: [ Bootcamp, Web Design ]
 image: assets/images/1.jpg
 featured: true
 ---
